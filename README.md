@@ -1,5 +1,5 @@
 ## TODO-finder
-This script will help you to find todo text where it's included in files of given folder
+This script will help you to find "todo"(case insensitive) text where it's included in files of given folder
 
 ## Usage
 >1. Open command line 
@@ -7,6 +7,6 @@ This script will help you to find todo text where it's included in files of give
 <pre><code>node todoFinder.js path/to/your/folder</code></pre>
 
 ## Hint
-> <pre><code>path/to/your/folder</code></pre> should be absolute folder path or relative folder patha
+> <pre><code>path/to/your/folder</code></pre> should be absolute folder path or relative folder path
 
 

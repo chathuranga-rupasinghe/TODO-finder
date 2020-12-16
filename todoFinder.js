@@ -31,7 +31,7 @@ function runScript() {
     if (process.argv.length > 2) {
         getFiles(process.argv[2]);
     } else {
-        console.error("please enter relative or absolute path of derectory as arguement");
+        console.error("please enter relative or absolute path of directory as argument");
     }
 }
 
