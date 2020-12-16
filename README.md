@@ -9,7 +9,7 @@ This script will help you to find "todo"(case insensitive) text where it's inclu
 >- Prefered node version 8+
 ## Usage
 >1. Open command prompt
->2. Go to location where todoFinder.js resides.
+>2. Navigate to the folder where todoFinder.js resides.
 >3. Run todoFinder.js file using below command
 <pre><code>node todoFinder.js path/to/your/folder</code></pre>
 
