@@ -14,6 +14,7 @@ This script will help you to find "todo"(case insensitive) text where it's inclu
 <pre><code>node todoFinder.js path/to/your/folder</code></pre>
 
 ## Hint
-> <pre><code>path/to/your/folder</code></pre> should be absolute folder path or relative folder path
+>- <code>path/to/your/folder</code> should be absolute folder path or relative folder path
+>- Above example, relative path will be <code>src</code>.
 
 
